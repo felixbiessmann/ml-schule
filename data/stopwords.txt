@@ -4,6 +4,13 @@
 ; LAST UPDATE 15. Jan 2011
 ; Besucht doch mal: www.solariz.de
 ; Quell Link: http://solariz.de/649/deutsche-stopwords.htm
+bundestagsfraktion
+frank
+büssemaker
+heiko
+andrea
+sigmar
+barbara
 dr.
 angeblich
 verstehe
